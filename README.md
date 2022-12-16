@@ -3,7 +3,8 @@
 - [Tubers](#tubers)
   - [Goal](#goal)
   - [Tech Stack](#tech-stack)
-- [Resources](#resources)
+  - [Resources](#resources)
+  - [Useful Commands](#useful-commands)
 
 ## Goal
 
@@ -16,6 +17,12 @@ They can reach out to you further to hire youtubers for promotion of their produ
 - Django
 - Postgres
 
-# Resources
+## Resources
 
 - [Coggle: For Designing DB Mindmap](https://coggle.it/)
+
+## Useful Commands
+
+- Make Migrations: `python3 manage.py makemigrations`
+- Run Migrations: `python3 manage.py migrate`
+- Run Server: `python3 manage.py runserver`
