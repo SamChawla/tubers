@@ -5,6 +5,8 @@
   - [Tech Stack](#tech-stack)
   - [Resources](#resources)
   - [Useful Commands](#useful-commands)
+  - [Theme](#theme)
+  - [Creds](#creds)
 
 ## Goal
 
@@ -26,3 +28,11 @@ They can reach out to you further to hire youtubers for promotion of their produ
 - Make Migrations: `python3 manage.py makemigrations`
 - Run Migrations: `python3 manage.py migrate`
 - Run Server: `python3 manage.py runserver`
+
+## Theme
+
+- [Django Admin Interface](https://github.com/fabiocaccamo/django-admin-interface)
+
+## Creds
+
+- username/password : admin/admin@123
