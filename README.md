@@ -22,6 +22,7 @@ They can reach out to you further to hire youtubers for promotion of their produ
 ## Resources
 
 - [Coggle: For Designing DB Mindmap](https://coggle.it/)
+- [Temporary Email](https://verifymail.io/domain/kaftee.com)
 
 ## Useful Commands
 
