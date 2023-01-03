@@ -33,6 +33,7 @@ They can reach out to you further to hire youtubers for promotion of their produ
 ## Theme
 
 - [Django Admin Interface](https://github.com/fabiocaccamo/django-admin-interface)
+- [Setting Up Theme](https://github.com/fabiocaccamo/django-admin-interface#installation)
 
 ## Creds
 
